@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app id="WebApp_ID" version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance " 
+ xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee 
+ http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+
+<servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoChooseXm</servlet-name>
+    <servlet-class>com.lm.gongju.GoChooseXm</servlet-class>
+  </servlet>
+<servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoChooseXm2</servlet-name>
+    <servlet-class>com.lm.gongju.GoChooseXm2</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoChooseXmOK</servlet-name>
+    <servlet-class>com.lm.gongju.GoChooseXmOK</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoFenyeXm</servlet-name>
+    <servlet-class>com.lm.gongju.GoFenyeXm</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoHallUI</servlet-name>
+    <servlet-class>com.lm.gongju.GoHallUI</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoModifyIfoOk</servlet-name>
+    <servlet-class>com.lm.gongju.GoModifyIfoOk</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoModifyXm</servlet-name>
+    <servlet-class>com.lm.gongju.GoModifyXm</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoModifyXmOk</servlet-name>
+    <servlet-class>com.lm.gongju.GoModifyXmOk</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoPersonalCenter</servlet-name>
+    <servlet-class>com.lm.gongju.GoPersonalCenter</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoRegister</servlet-name>
+    <servlet-class>com.lm.gongju.GoRegister</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoShenheXm</servlet-name>
+    <servlet-class>com.lm.gongju.GoShenheXm</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoShenheXm2</servlet-name>
+    <servlet-class>com.lm.gongju.GoShenheXm2</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoShenheXmOk</servlet-name>
+    <servlet-class>com.lm.gongju.GoShenheXmOk</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoUserXinxi</servlet-name>
+    <servlet-class>com.lm.gongju.GoUserXinxi</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoWriteXm</servlet-name>
+    <servlet-class>com.lm.gongju.GoWriteXm</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoWriteXmOk</servlet-name>
+    <servlet-class>com.lm.gongju.GoWriteXmOk</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoOut</servlet-name>
+    <servlet-class>com.lm.gongju.GoOut</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoMorW</servlet-name>
+    <servlet-class>com.lm.gongju.GoMorW</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GoPrint</servlet-name>
+    <servlet-class>com.lm.gongju.GoPrint</servlet-class>
+  </servlet>
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>GoChooseXm</servlet-name>
+    <url-pattern>/GoChooseXm</url-pattern>
+  </servlet-mapping>
+ <servlet-mapping>
+    <servlet-name>GoChooseXm2</servlet-name>
+    <url-pattern>/GoChooseXm2</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoChooseXmOK</servlet-name>
+    <url-pattern>/GoChooseXmOK</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoFenyeXm</servlet-name>
+    <url-pattern>/GoFenyeXm</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoHallUI</servlet-name>
+    <url-pattern>/GoHallUI</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoModifyIfoOk</servlet-name>
+    <url-pattern>/GoModifyIfoOk</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoModifyXm</servlet-name>
+    <url-pattern>/GoModifyXm</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoModifyXmOk</servlet-name>
+    <url-pattern>/GoModifyXmOk</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoPersonalCenter</servlet-name>
+    <url-pattern>/GoPersonalCenter</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoRegister</servlet-name>
+    <url-pattern>/GoRegister</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoShenheXm</servlet-name>
+    <url-pattern>/GoShenheXm</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoShenheXm2</servlet-name>
+    <url-pattern>/GoShenheXm2</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoShenheXmOk</servlet-name>
+    <url-pattern>/GoShenheXmOk</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoUserXinxi</servlet-name>
+    <url-pattern>/GoUserXinxi</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoWriteXm</servlet-name>
+    <url-pattern>/GoWriteXm</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+    <servlet-name>GoWriteXmOk</servlet-name>
+    <url-pattern>/GoWriteXmOk</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GoOut</servlet-name>
+    <url-pattern>/GoOut</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GoMorW</servlet-name>
+    <url-pattern>/GoMorW</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GoPrint</servlet-name>
+    <url-pattern>/GoPrint</url-pattern>
+  </servlet-mapping>
+  
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+	
+	<filter>
+  	<filter-name>CharEncoding</filter-name>
+  	<filter-class>filter.CharFilter</filter-class>
+  	<init-param>
+  		<param-name>encoding</param-name>
+  		<param-value>UTF-8</param-value>
+  	</init-param>
+  </filter>
+  
+  <filter-mapping>
+  		<filter-name>CharEncoding</filter-name>
+  		<url-pattern>/*</url-pattern>
+  </filter-mapping>
+	
+</web-app>

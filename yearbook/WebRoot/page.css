@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+div {
+	background-image: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509985017578&di=ccbd5e818b71a9d0e5fb9c6f0bc44679&imgtype=0&src=http%3A%2F%2Fwww.talkimages.cn%2Fimages%2Fmedium%2F20133017%2Ftkf001_396777.jpg');
+	height:1000px;
+	width:1500px;
+	background-size:cover;
+};
